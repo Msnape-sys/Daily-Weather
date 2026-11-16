@@ -1,0 +1,58 @@
+
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    margin: 25px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 25px;
+}
+
+input {
+    padding: 15px;
+    font-size: 16px;
+}
+
+button {
+    padding: 15px;
+    background-color: steelblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.results {
+    max-width: 750px;
+    margin: auto;
+}
+
+#current-weather {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+#forecast {
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.forecast-day {
+    background-color: #eeeeee;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid gray;
+}
+
+h2 {
+    color: darkblue;
+}
